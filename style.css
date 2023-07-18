@@ -1,0 +1,42 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: underline;
+
+}
+h2 {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: underline;
+
+}
+h3 {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: underline;
+
+}
+h4 {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: underline;
+
+}
+p {
+    color:lightgreen;
+    font-family: inherit;
+}
+
+p1 {
+color:whitesmoke;
+font-family: monospace;
+}
+
+p2 {
+    color: darkgreen;
+    font-family: serif;
+}
